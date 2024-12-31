@@ -1,0 +1,15 @@
+{
+  "name": "myelectronapp",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Chipi",
+  "license": "ISC",
+  "description": "First electron app",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
